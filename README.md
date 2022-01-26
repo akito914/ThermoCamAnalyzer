@@ -1,1 +1,7 @@
-ThermoCamAnalyzer
+
+## ThermoCamAnalyzer
+
+### ScreenShot
+
+
+![ScreenShot](screenshot.png)
